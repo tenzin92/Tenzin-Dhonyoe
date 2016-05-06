@@ -1,4 +1,4 @@
-Tenzin-Dhonyoe
+Tenzin-Lhatse
 ==============
 
 my first repo
